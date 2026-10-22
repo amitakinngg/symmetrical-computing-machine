@@ -75,21 +75,21 @@
         <div class="gallery-container">
           
           <!-- Image 1 -->
-          <a href="https://shelbhy.online/news/gk16" class="video-card">
+          <a href="https://airlesscalmnesssuppose.com/hpaa7vz4a?key=634309170377320b138cd3ee2d7aa0fc" class="video-card">
             <img src="https://raw.githubusercontent.com/rehanqadirzr-alt/gifs/refs/heads/main/9.gif" alt="Video 1" class="video-thumbnail">
             <div class="play-overlay">
               <div class="play-button"><div class="play-icon"></div></div>
             </div>
           </a>
           <!-- Image 2 -->
-          <a href="https://shelbhy.online/news/gk16" class="video-card">
+          <a href="https://airlesscalmnesssuppose.com/hpaa7vz4a?key=634309170377320b138cd3ee2d7aa0fc" class="video-card">
             <img src="https://raw.githubusercontent.com/rehanqadirzr-alt/gifs/refs/heads/main/8.gif" alt="Video 2" class="video-thumbnail">
             <div class="play-overlay">
               <div class="play-button"><div class="play-icon"></div></div>
             </div>
           </a>
           <!-- Image 3 -->
-          <a href="https://shelbhy.online/news/gk16" class="video-card">
+          <a href="https://airlesscalmnesssuppose.com/hpaa7vz4a?key=634309170377320b138cd3ee2d7aa0fc" class="video-card">
             <img src="https://raw.githubusercontent.com/rehanqadirzr-alt/gifs/refs/heads/main/7.gif" alt="Video 3" class="video-thumbnail">
             <div class="play-overlay">
               <div class="play-button"><div class="play-icon"></div></div>
